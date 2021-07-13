@@ -1,0 +1,8 @@
+{
+  "short_name": "FetchUsers",
+  "name": "Fetch Users",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
